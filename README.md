@@ -30,7 +30,7 @@ Dataset: [ChatGPT-Style Reviews Dataset]
 - **title** → Short headline of the review  
 - **review** → Full user feedback  
 - **rating** → Numerical score (1–5 stars)  
-- **username** → Reviewer identity  
+- **username** → Reviewer identity 
 - **helpful_votes** → Number of helpful votes  
 - **review_length** → Length of review text  
 - **platform** → Web / Mobile  
