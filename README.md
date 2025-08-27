@@ -97,10 +97,6 @@ Dataset: [ChatGPT-Style Reviews Dataset]
 - ✅ Streamlit Dashboard for insights  
 - ✅ Model Performance Report  
 
----How to run the streamlit app
-streamlit run sent.py
----
-
 ## 👨‍💻 Contributors
 - Santhanalakshmi V  
 
